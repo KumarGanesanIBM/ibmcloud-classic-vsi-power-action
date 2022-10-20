@@ -8,14 +8,7 @@ jobs and cron executions. These detail can be viewed/edited through UI/CLI after
 
 ## Prerequisites
 
-- Install latest python version.
-- Run below command for installing required package.
-
-```bash
-pip3 install -r requirements.txt
-```
-
-- Check access detail to `IBM Cloud Code Engine` service.
+- Clone the repo <https://github.com/KumarGanesanIBM/ibmcloud-classic-vsi-power-action>
 
 ## Input to the script
 
